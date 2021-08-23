@@ -3,7 +3,6 @@ Python
 # Overview of Election Audit
 Seth and Tom need to submit an election audit to an election commision. They have been given all of the voter results in a csv file.
 
-Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 * The file that they need to process has 369,711 lines of data/votes.
 * There are 3 counties in the dataset. Denver county controlled the election with over 300 thousand of the votes. A turnout of a massive 82.8%.
 * The other two counties, Jefferson and Arapahoe had 10.5% and 6.7% respectivly.
