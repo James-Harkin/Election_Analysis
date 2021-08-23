@@ -9,7 +9,7 @@ Election-Audit Results: Using a bulleted list, address the following election ou
 * The other two counties, Jefferson and Arapahoe had 10.5% and 6.7% respectivly.
 
 * DeGette won the election with 73.8% of the vote. The results are as follows: 
-![results](https://github.com/James-Harkin/Election_Analysis/blob/main/Results.jpg?)
+![results](https://github.com/James-Harkin/Election_Analysis/blob/main/Results.png?)
 # Proposal
 I propose that this script can be used for other elections. The way it is right now, with no modifications; provided that the csv is the same format. The loops are liquid enough to handle any amount of votes, candidates and counties.
 
