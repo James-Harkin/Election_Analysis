@@ -10,6 +10,6 @@ Seth and Tom need to submit an election audit to an election commision. They hav
 * DeGette won the election with 73.8% of the vote. The results are as follows: 
 ![results](https://github.com/James-Harkin/Election_Analysis/blob/main/Results.png?)
 # Proposal
-I propose that this script can be used for other elections. The way it is right now, with no modifications; provided that the csv is the same format. The loops are liquid enough to handle any amount of votes, candidates and counties.
+I propose that this script can be used for other elections. It can run other datasets with no modifications; provided that the csv is the same format. The loops are liquid enough to handle any amount of votes, candidates and counties.
 
 However providing a more secure script may be desired. Currently the script doesn't look at the ballot id of each vote. Carefully examining and cross checking the validity of each ballot with a third party may be best. Before counting each vote, the script would compare and make sure the ballot id only appears once, is valid, ect.
