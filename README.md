@@ -9,8 +9,7 @@ Election-Audit Results: Using a bulleted list, address the following election ou
 * The other two counties, Jefferson and Arapahoe had 10.5% and 6.7% respectivly.
 
 * DeGette won the election with 73.8% of the vote. The results are as follows: 
-![results](https://github.com/James-Harkin/Election_Analysis/blob/image.jpg?)
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.\
+![results](https://github.com/James-Harkin/Election_Analysis/blob/main/image.jpg?)
 # Proposal
 I propose that this script can be used for other elections. The way it is right now, with no modifications; provided that the csv is the same format. The loops are liquid enough to handle any amount of votes, candidates and counties.
 
